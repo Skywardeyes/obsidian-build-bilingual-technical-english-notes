@@ -1,0 +1,4 @@
+interface:
+  display_name: "双语技术英语精读"
+  short_description: "将英文技术文章转为中英双语 Obsidian 精读笔记"
+  default_prompt: "Use $obsidian-build-bilingual-technical-english-notes to turn this English technical article into a bilingual Obsidian study note with local images, vocabulary annotations, technical explanations, and a review summary."
